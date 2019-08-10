@@ -1,5 +1,7 @@
 import React from "react"
 
+import "../styles/generic/reset.css"
+
 import SEO from "../components/seo"
 import HeaderCubo from "../components/HeaderCubo"
 

@@ -1,7 +1,13 @@
-.menu-cubo{
-   color: #768c93 
+.wrapper-menu-cubo {
+  color: #768c93;
+  font-size: 14px;
+  text-transform: uppercase;
 }
 
-.item{
+.menu-cubo {
+  display: flex;
+}
 
+.menu-cubo > .item:not(:last-child) {
+  margin-right: var(--spacing-medium);
 }

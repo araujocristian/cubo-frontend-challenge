@@ -1,5 +1,6 @@
 import React from "react"
 
+import "../styles/settings/spacing.css"
 import "../styles/generic/reset.css"
 import "../styles/elements/base.css"
 
